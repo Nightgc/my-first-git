@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="data-fix-online-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../实收数据修复程序/data-fix-online-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../实收数据修复程序/data-fix-online-1.0-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>
